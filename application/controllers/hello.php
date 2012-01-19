@@ -8,6 +8,11 @@
  */
  
 class Hello extends CI_Controller{
+
+    public function __construct(){
+        parent::__construct();
+    }
+
     public function index(){
         $data = array(
             'title' => 'Foo',
@@ -18,8 +23,8 @@ class Hello extends CI_Controller{
 
     public function test(){
         $arr = array(
-            'one' = 1,
-            'two' = 2
+            'one' => 1,
+            'two' => 2
         );
         $this->load->view('test_view', $arr);
     }
