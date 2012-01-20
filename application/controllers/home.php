@@ -43,4 +43,16 @@ class Home extends CI_Controller
 
         $this->load->view('index_view', $this->data);
     }
+
+    function add_form(){
+        $data['action'] = $this->config->item('base_url') . 'add_article';
+        $this->load->view('add_form_view', $data);
+
+    }
+
+    function add_article(){
+        $title = $this->input->post('title', true);
+        $content = $this->input->post('content', true);
+        $this->db->insert('posts', array('post_name' => $title, 'post_content' => $content));
+    }
 }

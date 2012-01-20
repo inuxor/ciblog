@@ -13,6 +13,6 @@ class Add extends CI_Controller
         $this->load->database();
     }
 
-    //public function
+    public function
 
 }
