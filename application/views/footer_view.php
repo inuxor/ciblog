@@ -7,5 +7,10 @@
  * To change this template use File | Settings | File Templates.
  */
 ?>
+
+	<script src="<?=base_url();?>bootstrap/js/jquery.js"></script>
+    <script src="<?=base_url();?>bootstrap/js/google-code-prettify/prettify.js"></script>
+    <script src="<?=base_url();?>bootstrap/js/bootstrap.js"></script>
+
 </body>
 </html>

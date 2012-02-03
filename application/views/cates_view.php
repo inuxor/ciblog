@@ -7,10 +7,11 @@
  * To change this template use File | Settings | File Templates.
  */
 ?>
-<ol>
+<ul class="nav nav-list">
+	<li class="nav-header">cate</li>
     <?php foreach ($cates as $cate): ?>
     <li>
         <?=$cate?>
     </li>
     <?php endforeach ?>
-</ol>
+</ul>

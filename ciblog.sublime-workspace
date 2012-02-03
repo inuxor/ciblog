@@ -1,0 +1,321 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"private"
+			],
+			[
+				"curl_",
+				"curl_exec"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"str_s",
+				"str_split"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"false",
+				"fam_close"
+			],
+			[
+				"pople",
+				"pople"
+			],
+			[
+				"inp",
+				"input	Tag"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"un",
+				"function"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/stblog.sublime-project",
+		"/F/xampp/htdocs/twitter-bootstrap/docs/index.html",
+		"/F/xampp/htdocs/ciblog/application/views/header_view.php",
+		"/F/xampp/htdocs/ciblog/application/views/footer_view.php",
+		"/F/xampp/htdocs/ciblog/application/config/config.php",
+		"/F/xampp/htdocs/ciblog/application/config/routes.php",
+		"/F/xampp/htdocs/ciblog/application/controllers/home.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/home.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/themes/default/index.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/themes/default/posts.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/themes/default/post.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/pages.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/admin/dashboard.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/admin/pages.php",
+		"/F/xampp/htdocs/ciblog/application/controllers/add.php",
+		"/F/xampp/htdocs/ciblog/application/views/index_view.php",
+		"/F/xampp/htdocs/ciblog/application/views/add_form_view.php",
+		"/F/xampp/htdocs/ciblog/application/views/cates_view.php",
+		"/F/xampp/htdocs/ciblog/application/views/posts_view.php",
+		"/F/xampp/htdocs/bootstrap/css/bootstrap.css",
+		"/F/xampp/htdocs/twitter-bootstrap/docs/assets/css/bootstrap-responsive.css",
+		"/F/xampp/htdocs/ciblog/bootstrap/js/bootstrap.js",
+		"/F/xampp/htdocs/twitter-bootstrap/README.md",
+		"/F/xampp/htdocs/yrob/str_to_arr.php",
+		"/F/xampp/htdocs/yrob/preg_grep_walk.php",
+		"/F/xampp/htdocs/yrob/rob.php",
+		"/F/xampp/htdocs/foo.txt",
+		"/F/xampp/htdocs/twitter-bootstrap/docs/assets/js/jquery.js",
+		"/F/xampp/htdocs/ciblog/application/config/autoload.php",
+		"/F/xampp/htdocs/ciblog/system/core/Config.php",
+		"/F/xampp/htdocs/twitter-bootstrap/docs/assets/css/docs.css",
+		"/F/xampp/htdocs/twitter-bootstrap/Makefile",
+		"/F/xampp/htdocs/ixedit/readme.html",
+		"/F/xampp/htdocs/bar.php",
+		"/F/xampp/htdocs/github-ssh-rsa.txt",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/posts.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/admin/login.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/admin/upload.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/admin/metas.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/controllers/admin/comments.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/libraries/Auth.php",
+		"/F/xampp/htdocs/test001.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/application/models/themes_mdl.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/themes/default/header.php",
+		"/F/xampp/htdocs/stblog-Stblog-1fec535/themes/default/page.php",
+		"/D/文档/-",
+		"/F/xampp/htdocs/my_ci/system/application/controllers/my_ci.php",
+		"/F/xampp/htdocs/my_ci/index.php",
+		"/F/xampp/htdocs/dilicms/application/controllers/initialize.php",
+		"/F/xampp/htdocs/dilicms/application/controllers/admin/user.php",
+		"/F/xampp/htdocs/dilicms/application/models/dili/user_mdl.php",
+		"/F/xampp/htdocs/dilicms/application/controllers/admin/content.php",
+		"/F/xampp/htdocs/dilicms/admincp/default/user_list.php",
+		"/F/xampp/htdocs/dilicms/index.php",
+		"/F/xampp/htdocs/dilicms/application/views/welcome_message.php",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/D/My Documents/webpage.obj",
+		"/D/My Documents/webpage.mtl",
+		"/F/xampp/htdocs/test001.html",
+		"/F/xampp/htdocs/hashcrack.php",
+		"/F/xampp/htdocs/test003.html",
+		"/F/xampp/htdocs/killmonkey.php",
+		"/F/xampp/htdocs/223test/crm/co/callback.php",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/F/xampp/htdocs/223test/crm/co/rebate/co_rebate_add.php",
+		"/F/xampp/htdocs/test003.php",
+		"/F/xampp/php/php.ini",
+		"/C/Documents and Settings/Administrator/YUNIO/cal.txt",
+		"/D/文档/books/锋利的jquery/实例下载/05第五章/第五章例子/demo7-表格展开伸缩/demo1.html",
+		"/F/xampp/htdocs/index.html",
+		"/F/xampp/htdocs/jquery-1.7.1.js",
+		"/F/xampp/htdocs/223test/crm/co/advance/co_advance_add.php",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/F/xampp/htdocs/223test/crm/co/co_settlement_list.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"funtion post",
+			"post ",
+			"post",
+			"\"",
+			"intt",
+			"out",
+			"zend"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"bar"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}

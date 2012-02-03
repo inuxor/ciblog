@@ -16,6 +16,8 @@ class Home extends CI_Controller
     {
         parent::__construct();
         $this->load->database();
+        $this->load->helper('url');
+
     }
 
     private function _set_title()
@@ -30,6 +32,8 @@ class Home extends CI_Controller
             $this->data['posts'][] = $row;
         }
     }
+
+
 
     function index()
     {

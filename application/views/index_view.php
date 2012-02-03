@@ -8,6 +8,25 @@
  */
 
 $this->load->view('header_view');
-$this->load->view('posts_view');
-$this->load->view('cates_view');
+?>
+<div class="container-fluid">
+	<div class="row-fluid">
+		<div class="span2">
+			<!--Sidebar content-->
+			<div class="well" style="padding: 8px 0;margin: 50px 0;">
+    		<?php $this->load->view('cates_view'); ?>	    
+			</div>
+		</div>
+		<div class="span10">   	   
+			<!--Body content-->
+ 			<div class="well" style="padding: 8px 0;margin: 50px 0;">
+			<?php $this->load->view('posts_view'); ?>
+			</div>
+	    </div>
+	</div>
+</div>
+<?php
+// $this->load->view('posts_view');
+// $this->load->view('cates_view');
 $this->load->view('footer_view');
+?>

@@ -8,10 +8,12 @@
  */
 
 ?>
-<ol>
+<ul class="nav nav-list">
+		<li class="nav-header">posts</li>
+
     <?php foreach ($posts as $post): ?>
     <li>
         <?=$post->post_name?>
     </li>
-        <?php endforeach ?>
-</ol>
+    <?php endforeach ?>
+</ul>
